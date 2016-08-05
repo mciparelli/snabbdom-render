@@ -1,6 +1,6 @@
 {
   "name": "@mciparelli/snabbdom-render",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "simple utility to patch new Snabbdom VDOMs in the same DOM container",
   "main": "index.js",
   "repository": {
