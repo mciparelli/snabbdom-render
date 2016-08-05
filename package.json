@@ -1,0 +1,24 @@
+{
+  "name": "@mciparelli/snabbdom-render",
+  "version": "0.0.0",
+  "description": "simple utility to patch new Snabbdom VDOMs in the same DOM container",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/mciparelli/snabbdom-render"
+  },
+  "keywords": [
+    "snabbdom",
+    "render",
+    "vdom",
+    "patch"
+  ],
+  "author": {
+    "name": "Martín Ciparelli",
+    "email": "mciparelli@gmail.com"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "snabbdom": "^0.5.1"
+  }
+}
